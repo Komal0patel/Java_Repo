@@ -30,7 +30,7 @@ class Student {
 }
 
 // Main class to test encapsulation
-public class Main {
+public class Encapsulation{
     public static void main(String[] args) {
         Student s = new Student();
 
